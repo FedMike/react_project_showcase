@@ -1,6 +1,6 @@
 {
   "name": "react_project_showcase",
-  "home": "https://FedMike.github.io/react_project_showcase",
+  "homepage": "https://FedMike.github.io/react_project_showcase",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
