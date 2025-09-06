@@ -3,12 +3,12 @@ function Header() {
     <nav className="green darken-1">
       <div className="nav-wrapper">
         <a href="/" className="brand-logo">
-          React Movies
+          React Shop
         </a>
         <ul id="nav-mobile" className="right hide-on-med-and-down">
           <li>
             <a
-              href="https://fedmike.github.io/react_project_showcase/"
+              href="https://github.com/FedMike/react_project_showcase"
               target="_blank"
               rel="noreferrer"
             >
